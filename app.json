@@ -1,7 +1,7 @@
 {
   "expo": {
     "name": "React Navigation Bug Demo",
-    "slug": "react-navigation-bug-demo",
+    "slug": "vue-native-router-crash-demo",
     "privacy": "public",
     "sdkVersion": "35.0.0",
     "platforms": [
